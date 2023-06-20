@@ -1,2 +1,2 @@
 # Minesweeper
-Minesweeper project from my C# Object Oriented Programming class. 
+Recreation of the classic Minesweeper game. 
