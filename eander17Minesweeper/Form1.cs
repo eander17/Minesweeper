@@ -1,8 +1,5 @@
 ﻿///
 ///Evan Anderson
-///CS 3020: Advanced Object Oriented Programming in C#/.NET
-///Prof Malec
-///11/5/2021
 ///
 ///MINESWEEPER: 
 ///features of program: 

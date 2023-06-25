@@ -8,3 +8,5 @@ C:\Users\evana\OneDrive - University of Colorado Colorado Springs\School\C# Prog
 C:\Users\evana\OneDrive - University of Colorado Colorado Springs\School\C# Programming\Homework\eander17Minesweeper\obj\Debug\eander17Minesweeper.exe
 C:\Users\evana\OneDrive - University of Colorado Colorado Springs\School\C# Programming\Homework\eander17Minesweeper\obj\Debug\eander17Minesweeper.pdb
 C:\Users\evana\OneDrive - University of Colorado Colorado Springs\School\C# Programming\Homework\eander17Minesweeper\obj\Debug\eander17Minesweeper.Form1.resources
+C:\Users\evana\source\repos\Minesweeper\eander17Minesweeper\obj\Debug\eander17Minesweeper.exe
+C:\Users\evana\source\repos\Minesweeper\eander17Minesweeper\obj\Debug\eander17Minesweeper.pdb
